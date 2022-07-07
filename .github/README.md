@@ -3,7 +3,7 @@
 </p>
 
 ### 🥵 sᴛʀɪɴɢ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ
-  <a href="https://github.com/STD-DEEPANSHU"><img alt="Website" src="https://img.shields.io/badge/Ɗᴇᴇᴘᴀɴꜱʜᴜ-blue"></a>
+  <a href="https://github.com/STD-DEEPANSHU"><img alt="Website" src="https://img.shields.io/badge/𝐃𝐄𝐄𝐏𝐀𝐍𝐒𝐇𝐔-blue"></a>
  
 [![Stars](https://img.shields.io/github/stars/STD-DEEPANSHU/StringGenBot?style=social)](https://github.com/STD-DEEPANSHU/StringGenBot/stargazers)
   [![Forks](https://img.shields.io/github/forks/STD-DEEPANSHU/StringGenBot?style=social)](https://github.com/STD-DEEPANSHU/StringGenBot/fork)
@@ -45,6 +45,6 @@ Atleast Give A Star and Fork The Repo 🖤
 
 
 ## 💖 ᴄʀᴇᴅɪᴛs
-- » [𝝙𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦](https://github.com/STD-DEEPANSHU)
+- » [𝐃𝐄𝐄𝐏𝐀𝐍𝐒𝐇𝐔](https://github.com/STD-DEEPANSHU)
 - » [Pyrogram Devs](https://github.com/pyrogram) for [Pyrogram](https://github.com/pyrogram/pyrogram)
 - » [LonamiWebs](https://github.com/LonamiWebs) for [Telethon](https://github.com/LonamiWebs/Telethon)
