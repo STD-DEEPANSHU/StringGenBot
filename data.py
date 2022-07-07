@@ -18,5 +18,5 @@ Hᴇʏ {},
 Tʜɪs ɪs {},
 Aɴ ᴏᴩᴇɴ sᴏᴜʀᴄᴇᴅ sᴛʀɪɴɢ sᴇssɪᴏɴ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ, ᴡʀɪᴛᴛᴇɴ ɪɴ ᴩʏᴛʜᴏɴ ᴡɪᴛʜ ᴛʜᴇ ʜᴇʟᴩ ᴏғ ᴩʏʀᴏɢʀᴀᴍ.
 Sᴏᴜʀᴄᴇ : [ɢɪᴛʜᴜʙ](https://github.com/STD-DEEPANSHU/StringGenBot)
-Mᴀᴅᴇ ᴡɪᴛʜ 🖤 ʙʏ : [𝝙𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦](https://t.me/STD_DEEPANSHU) !
+Mᴀᴅᴇ ᴡɪᴛʜ 🖤 ʙʏ : [Ɗᴇᴇᴘᴀɴꜱʜᴜ](https://t.me/STD_DEEPANSHU) !
     """
