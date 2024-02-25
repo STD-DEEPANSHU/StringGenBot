@@ -14,7 +14,7 @@
   "formation": {
     "worker": {
       "quantity": 1,
-      "size": "free"
+      "size": "basic"
     }
   },
   "addons": [
@@ -45,7 +45,7 @@
     "MUST_JOIN": {
       "description": "Username of a group or channel for which you want to set force sub.(without @)",
       "required": true,
-      "value": "Tricky_Deepanshu"
+      "value": "STD_DEEPANSHU"
     },
     "BOT_TOKEN": {
       "description": "Get this value from @BotFather",
